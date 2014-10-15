@@ -27,7 +27,7 @@ class Receiver(Thread):
     while(True):
       text = serialPort.readline()
       if text:
-        print ("message: " + text.rstrip('\n'))
+        print (text.rstrip('\n'))
         logger.info("Receive message {}".format(text.rstrip('\n')))
 
 class Sender(Thread):
