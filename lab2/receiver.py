@@ -71,6 +71,6 @@ while (True):
         if correct_addr and correct_crc:
             print str_new
             logger.info("Received {}".format(str_new))
-        else:
-            logger.info("Received incorrect message")
+        #else:
+            #logger.info("Received incorrect message")
     str_last = str

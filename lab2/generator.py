@@ -23,13 +23,15 @@ while(True):
     option = random.randint(1,4)
     if option == 1:
         str, addr = send_packet_data()
-        logger.info("Send packet to wrong address {}".format(addr))
+        #logger.info("Send packet to wrong address {}".format(addr))
+        print "Send packet to wrong address {}".format(addr)
     else:
         size = random.randint(1,200)
         str = ""
         for i in range(size):
             str += chr(random.randint(0,255))
-        logger.info("Send {} random bytes".format(len(str)))
+        #logger.info("Send {} random bytes".format(len(str)))
+        print "Send {} random bytes".format(len(str))
     f.write(str)
     f.close()
-    time.sleep(1)
+    time.sleep(random.uniform(0,5))
