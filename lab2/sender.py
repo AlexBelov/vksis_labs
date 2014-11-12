@@ -1,6 +1,10 @@
 import pipes
 import os
 import sys
+import logging
+
+logging.basicConfig(filename='info.log',level=logging.INFO)
+logger = logging.getLogger("Sender")
 
 flags = [0x65, 0xFF]
 t = pipes.Template()
@@ -67,3 +71,4 @@ while(True):
         f = t.open('pipefile', 'w')
         f.write(encoded)
         f.close()
+        logger.info("Send {}. Packet size {}".format(text, len(encoded)))

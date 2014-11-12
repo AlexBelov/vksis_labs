@@ -1,6 +1,10 @@
 import pipes
 import time
 import random
+import logging
+
+logging.basicConfig(filename='info.log',level=logging.INFO)
+logger = logging.getLogger("Generator")
 
 t = pipes.Template()
 
@@ -19,13 +23,13 @@ while(True):
     option = random.randint(1,4)
     if option == 1:
         str, addr = send_packet_data()
-        print 'Send packet to wrong address {}'.format(addr)
+        logger.info("Send packet to wrong address {}".format(addr))
     else:
-        size = random.randint(1,20)
+        size = random.randint(1,200)
         str = ""
         for i in range(size):
             str += chr(random.randint(0,255))
-    print str
+        logger.info("Send {} random bytes".format(len(str)))
     f.write(str)
     f.close()
     time.sleep(1)

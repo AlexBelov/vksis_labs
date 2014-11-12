@@ -1,6 +1,10 @@
 import pipes
 import os
 import sys
+import logging
+
+logging.basicConfig(filename='info.log',level=logging.INFO)
+logger = logging.getLogger("Receiver")
 
 flags = [0x65, 0xFF]
 t = pipes.Template()
@@ -66,4 +70,7 @@ while (True):
         correct_addr, correct_crc, str_new = decode_packet(str, my_addr)
         if correct_addr and correct_crc:
             print str_new
+            logger.info("Received {}".format(str_new))
+        else:
+            logger.info("Received incorrect message")
     str_last = str
