@@ -3,6 +3,7 @@ import os
 import sys
 
 flags = [0x65, 0xFF]
+t = pipes.Template()
 
 if len(sys.argv) > 1:
     my_addr = int(sys.argv[1])
@@ -47,8 +48,6 @@ def byte_array_to_str(arr):
     for byte in arr:
         result += chr(int(byte, 16))
     return result
-
-t = pipes.Template()
 
 while(True):
     text = raw_input("")

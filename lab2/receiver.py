@@ -3,6 +3,7 @@ import os
 import sys
 
 flags = [0x65, 0xFF]
+t = pipes.Template()
 
 if len(sys.argv) > 1:
     my_addr = sys.argv[1]
@@ -13,11 +14,17 @@ def decode_packet(str, my_addr):
     result = []
     for byte in str:
         result.append(hex(ord(byte)))
+    if result[0] != hex(flags[0]):
+        return False, False, ''
+    if len(result) > 0 and len(result) < 6:
+        return False, False, ''
     dst = int(result[1], 16)
+    if dst != my_addr:
+        return False, False, ''
     source = int(result[2], 16)
     size = int(result[3], 16)
-    data = result[4:len(result)-1]
-    crc = int(result[len(result)-1], 16)
+    data = result[4:size+4]
+    crc = int(result[size+4], 16)
     new_crc = count_crc(data)
     data_unstuffed = byte_unstuffing(data)
     str_new = byte_array_to_str(data_unstuffed)
@@ -52,7 +59,6 @@ while (True):
     str = open('pipefile', 'r').read().rstrip('\n')
     if str_last != str and str != '':
         if str == 'exit':
-            t = pipes.Template()
             f1 = t.open('pipefile', 'w')
             f1.write('')
             f1.close
