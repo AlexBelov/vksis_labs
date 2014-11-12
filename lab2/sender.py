@@ -41,6 +41,15 @@ def packet_forming(text, my_addr, dest_addr):
     text.append(crc) # naive crc
     return text
 
+def packet_output(arr):
+    logger.info("\n======== PACKET STRUCTURE ========")
+    logger.info("Beginning flag: {}".format(arr[0]))
+    logger.info("Destination: {}".format(arr[1]))
+    logger.info("Source flag: {}".format(arr[2]))
+    logger.info("Data size: {}".format(arr[3]))
+    logger.info("Data: {}".format(arr[4:len(arr)-1]))
+    logger.info("Naive CRC: {}\n".format(arr[len(arr)-1]))
+
 def count_crc(data):
     crc = 0
     for byte in data:
@@ -68,6 +77,7 @@ while(True):
         # print packet_arr
         encoded = byte_array_to_str(packet_arr)
         # print encoded
+        packet_output(packet_arr)
         f = t.open('pipefile', 'w')
         f.write(encoded)
         f.close()
