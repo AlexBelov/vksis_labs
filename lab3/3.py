@@ -2,6 +2,21 @@ import math
 import numpy as np
 import random
 import sys
+import logging
+
+def setup_logger(logger_name, log_file, level=logging.INFO):
+    l = logging.getLogger(logger_name)
+    formatter = logging.Formatter('%(message)s')
+    fileHandler = logging.FileHandler(log_file, mode='w')
+    fileHandler.setFormatter(formatter)
+
+    l.setLevel(level)
+    l.addHandler(fileHandler)
+
+setup_logger('log1', r'info.log')
+setup_logger('log2', r'out.log')
+log1 = logging.getLogger('log1')
+log2 = logging.getLogger('log2')
 
 if len(sys.argv) == 2:
     insert_error = True
@@ -85,7 +100,7 @@ while(True):
 
     # ==== INSERT ONE ERROR
 
-    print ''.join(map(str, map(int, hamming_encoded[0][1:])))
+    log1.info(''.join(map(str, map(int, hamming_encoded[0][1:]))))
 
     hamming_matrix = np.zeros((height, width))
     hamming_matrix[0] = hamming_encoded
@@ -138,4 +153,4 @@ while(True):
         str_decoded += chr(int(''.join(map(str, arr_decoded[i:i+8])), 2))
         i += 8
 
-    print str_decoded
+    log2.info(str_decoded)
