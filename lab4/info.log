@@ -1,0 +1,2781 @@
+
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0xc
+INFO:Sender:Data: ['0x68', '0xff', '0x9a', '0x6c', '0x6c', '0x6f', '0x20', '0x77', '0x6f', '0x72', '0x6c', '0x64']
+INFO:Sender:Naive CRC: 0x35
+
+INFO:Sender:Send hello world. Packet size 17
+INFO:Receiver:Received hello world
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x6
+INFO:Sender:Data: ['0x72', '0x73', '0x74', '0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0x1a
+
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x7
+INFO:Sender:Data: ['0x72', '0x73', '0x6f', '0x74', '0x73', '0x72', '0x74']
+INFO:Sender:Naive CRC: 0x20
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x6
+INFO:Sender:Data: ['0x72', '0x73', '0x74', '0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0x1a
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x72', '0x73']
+INFO:Sender:Naive CRC: 0x9
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x74']
+INFO:Sender:Naive CRC: 0x4
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x72', '0x73']
+INFO:Sender:Naive CRC: 0x9
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x74']
+INFO:Sender:Naive CRC: 0x4
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x72']
+INFO:Sender:Naive CRC: 0x4
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x73', '0x74']
+INFO:Sender:Naive CRC: 0x9
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x72']
+INFO:Sender:Naive CRC: 0x4
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x73', '0x74']
+INFO:Sender:Naive CRC: 0x9
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x72']
+INFO:Sender:Naive CRC: 0x4
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x73', '0x74']
+INFO:Sender:Naive CRC: 0x9
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x72', '0x73']
+INFO:Sender:Naive CRC: 0x9
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x74']
+INFO:Sender:Naive CRC: 0x4
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x72', '0x73']
+INFO:Sender:Naive CRC: 0x9
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x74']
+INFO:Sender:Naive CRC: 0x4
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x72', '0x73']
+INFO:Sender:Naive CRC: 0x9
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x74']
+INFO:Sender:Naive CRC: 0x4
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x72']
+INFO:Sender:Naive CRC: 0x4
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x73', '0x74']
+INFO:Sender:Naive CRC: 0x9
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x73', '0x72', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x0
+INFO:Sender:Data: []
+INFO:Sender:Naive CRC: 0x0
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x72', '0x73']
+INFO:Sender:Naive CRC: 0x9
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x74']
+INFO:Sender:Naive CRC: 0x4
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x72', '0x73']
+INFO:Sender:Naive CRC: 0x9
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x74']
+INFO:Sender:Naive CRC: 0x4
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x0
+INFO:Sender:Data: []
+INFO:Sender:Naive CRC: 0x0
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x72', '0x73']
+INFO:Sender:Naive CRC: 0x9
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x74']
+INFO:Sender:Naive CRC: 0x4
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x72', '0x73']
+INFO:Sender:Naive CRC: 0x9
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x74']
+INFO:Sender:Naive CRC: 0x4
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x0
+INFO:Sender:Data: []
+INFO:Sender:Naive CRC: 0x0
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x72']
+INFO:Sender:Naive CRC: 0x4
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x73', '0x74']
+INFO:Sender:Naive CRC: 0x9
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x72', '0x73']
+INFO:Sender:Naive CRC: 0x9
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x74']
+INFO:Sender:Naive CRC: 0x4
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x0
+INFO:Sender:Data: []
+INFO:Sender:Naive CRC: 0x0
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x72', '0x73']
+INFO:Sender:Naive CRC: 0x9
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x74']
+INFO:Sender:Naive CRC: 0x4
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x72', '0x73']
+INFO:Sender:Naive CRC: 0x9
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x74']
+INFO:Sender:Naive CRC: 0x4
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x72', '0x73']
+INFO:Sender:Naive CRC: 0x9
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x74']
+INFO:Sender:Naive CRC: 0x4
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x72', '0x73']
+INFO:Sender:Naive CRC: 0x9
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x74']
+INFO:Sender:Naive CRC: 0x4
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x72', '0x73']
+INFO:Sender:Naive CRC: 0x9
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x0
+INFO:Sender:Data: []
+INFO:Sender:Naive CRC: 0x0
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x0
+INFO:Sender:Data: []
+INFO:Sender:Naive CRC: 0x0
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x0
+INFO:Sender:Data: []
+INFO:Sender:Naive CRC: 0x0
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x0
+INFO:Sender:Data: []
+INFO:Sender:Naive CRC: 0x0
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x0
+INFO:Sender:Data: []
+INFO:Sender:Naive CRC: 0x0
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x5
+INFO:Sender:Data: ['0x73', '0x74', '0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0x16
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x73', '0x72', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x73', '0x74']
+INFO:Sender:Naive CRC: 0x9
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x31', '0x31', '0x31']
+INFO:Sender:Naive CRC: 0x9
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x73', '0x74', '0x73']
+INFO:Sender:Naive CRC: 0xe
+
+INFO:Sender:Send sts. Packet size 8
+INFO:Receiver:Received sts
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x73', '0x74']
+INFO:Sender:Naive CRC: 0x9
+
+INFO:Sender:Send st. Packet size 7
+INFO:Receiver:Received st
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x73', '0x74']
+INFO:Sender:Naive CRC: 0x9
+
+INFO:Sender:Send st. Packet size 7
+INFO:Receiver:Received st
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x32']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Send 2. Packet size 6
+INFO:Receiver:Received 2
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x74', '0x73']
+INFO:Sender:Naive CRC: 0x9
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x0
+INFO:Sender:Data: []
+INFO:Sender:Naive CRC: 0x0
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x74']
+INFO:Sender:Naive CRC: 0x4
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x74']
+INFO:Sender:Naive CRC: 0x4
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x0
+INFO:Sender:Data: []
+INFO:Sender:Naive CRC: 0x0
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x74']
+INFO:Sender:Naive CRC: 0x4
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x74']
+INFO:Sender:Naive CRC: 0x4
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x0
+INFO:Sender:Data: []
+INFO:Sender:Naive CRC: 0x0
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x64', '0x64', '0x64']
+INFO:Sender:Naive CRC: 0x9
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x64', '0x70']
+INFO:Sender:Naive CRC: 0x6
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x74', '0x64']
+INFO:Sender:Naive CRC: 0x7
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x4
+INFO:Sender:Data: ['0x66', '0x70', '0x64', '0x74']
+INFO:Sender:Naive CRC: 0xe
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x0
+INFO:Sender:Data: []
+INFO:Sender:Naive CRC: 0x0
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x66', '0x70', '0x64']
+INFO:Sender:Naive CRC: 0xa
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x70', '0x66']
+INFO:Sender:Naive CRC: 0x7
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x66', '0x70']
+INFO:Sender:Naive CRC: 0x7
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x66', '0x70']
+INFO:Sender:Naive CRC: 0x7
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x70', '0x66']
+INFO:Sender:Naive CRC: 0x7
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x64', '0x66']
+INFO:Sender:Naive CRC: 0x7
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x70', '0x64']
+INFO:Sender:Naive CRC: 0x6
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x66', '0x70']
+INFO:Sender:Naive CRC: 0x7
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x66', '0x70']
+INFO:Sender:Naive CRC: 0x7
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x66', '0x70']
+INFO:Sender:Naive CRC: 0x7
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x66', '0x70', '0x64']
+INFO:Sender:Naive CRC: 0xa
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x66']
+INFO:Sender:Naive CRC: 0x4
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x70', '0x64']
+INFO:Sender:Naive CRC: 0x6
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x66']
+INFO:Sender:Naive CRC: 0x4
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x70', '0x64']
+INFO:Sender:Naive CRC: 0x6
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x0
+INFO:Sender:Data: []
+INFO:Sender:Naive CRC: 0x0
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x66', '0x70']
+INFO:Sender:Naive CRC: 0x7
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x64', '0x66']
+INFO:Sender:Naive CRC: 0x7
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x70', '0x64']
+INFO:Sender:Naive CRC: 0x6
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x66']
+INFO:Sender:Naive CRC: 0x4
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x70', '0x64']
+INFO:Sender:Naive CRC: 0x6
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x66', '0x70']
+INFO:Sender:Naive CRC: 0x7
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x66', '0x70', '0x64']
+INFO:Sender:Naive CRC: 0xa
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x66', '0x70']
+INFO:Sender:Naive CRC: 0x7
+
+INFO:Sender:Collision!
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Send d. Packet size 6
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x73', '0x72', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Send srt. Packet size 8
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x64']
+INFO:Sender:Naive CRC: 0xc
+
+INFO:Sender:Send rsd. Packet size 8
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x0
+INFO:Sender:Data: []
+INFO:Sender:Naive CRC: 0x0
+
+INFO:Sender:Send . Packet size 5
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x73', '0x64']
+INFO:Sender:Naive CRC: 0x8
+
+INFO:Sender:Send sd. Packet size 7
+INFO:Receiver:Received sd
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x72', '0x73']
+INFO:Sender:Naive CRC: 0x9
+
+INFO:Sender:Send rs. Packet size 7
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x74']
+INFO:Sender:Naive CRC: 0x4
+
+INFO:Sender:Send t. Packet size 6
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Send rst. Packet size 8
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x72']
+INFO:Sender:Naive CRC: 0x4
+
+INFO:Sender:Send r. Packet size 6
+INFO:Receiver:Received r
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x73', '0x74']
+INFO:Sender:Naive CRC: 0x9
+
+INFO:Sender:Send st. Packet size 7
+INFO:Receiver:Received st
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x72', '0x73']
+INFO:Sender:Naive CRC: 0x9
+
+INFO:Sender:Send rs. Packet size 7
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x74', '0x64']
+INFO:Sender:Naive CRC: 0x7
+
+INFO:Sender:Send td. Packet size 7
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Send rst. Packet size 8
+INFO:Receiver:Received rst
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Send rst. Packet size 8
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x0
+INFO:Sender:Data: []
+INFO:Sender:Naive CRC: 0x0
+
+INFO:Sender:Send . Packet size 5
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x74']
+INFO:Sender:Naive CRC: 0x4
+
+INFO:Sender:Send t. Packet size 6
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x74']
+INFO:Sender:Naive CRC: 0x4
+
+INFO:Sender:Send t. Packet size 6
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x74']
+INFO:Sender:Naive CRC: 0x4
+
+INFO:Sender:Send t. Packet size 6
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Send d. Packet size 6
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Send d. Packet size 6
+INFO:Receiver:Received d
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Send d. Packet size 6
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x73', '0x72', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Send srt. Packet size 8
+INFO:Receiver:Received srt
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Send rst. Packet size 8
+INFO:Receiver:Received rst
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Send rst. Packet size 8
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x72', '0x73']
+INFO:Sender:Naive CRC: 0x9
+
+INFO:Sender:Send rs. Packet size 7
+INFO:Receiver:Received rs
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x74']
+INFO:Sender:Naive CRC: 0x4
+
+INFO:Sender:Send t. Packet size 6
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Send rst. Packet size 8
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Send rst. Packet size 8
+INFO:Receiver:Received rst
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Send rst. Packet size 8
+INFO:Receiver:Received rst
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x0
+INFO:Sender:Data: []
+INFO:Sender:Naive CRC: 0x0
+
+INFO:Sender:Send . Packet size 5
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Send rst. Packet size 8
+INFO:Receiver:Received rst
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x73', '0x72', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Send srt. Packet size 8
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Send rst. Packet size 8
+INFO:Receiver:Received rst
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Send d. Packet size 6
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x64', '0x73', '0x72']
+INFO:Sender:Naive CRC: 0xc
+
+INFO:Sender:Send dsr. Packet size 8
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x74']
+INFO:Sender:Naive CRC: 0x4
+
+INFO:Sender:Send t. Packet size 6
+INFO:Receiver:Received t
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Send rst. Packet size 8
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x72', '0x73']
+INFO:Sender:Naive CRC: 0x9
+
+INFO:Sender:Send rs. Packet size 7
+INFO:Receiver:Received rs
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x74']
+INFO:Sender:Naive CRC: 0x4
+
+INFO:Sender:Send t. Packet size 6
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Send rst. Packet size 8
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Send rst. Packet size 8
+INFO:Receiver:Received rst
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Send rst. Packet size 8
+INFO:Receiver:Received rst
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x3
+INFO:Sender:Data: ['0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0xd
+
+INFO:Sender:Send rst. Packet size 8
+INFO:Receiver:Received rst
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Send d. Packet size 6
+INFO:Receiver:Received d
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x6
+INFO:Sender:Data: ['0x72', '0x73', '0x74', '0x72', '0x73', '0x74']
+INFO:Sender:Naive CRC: 0x1a
+
+INFO:Sender:Send rstrst. Packet size 11
+INFO:Receiver:Received rstrst
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Send d. Packet size 6
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Send d. Packet size 6
+INFO:Receiver:Received d
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Send d. Packet size 6
+INFO:Receiver:Received d
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Send d. Packet size 6
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Send d. Packet size 6
+INFO:Receiver:Received d
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Send d. Packet size 6
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Send d. Packet size 6
+INFO:Receiver:Received d
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Send d. Packet size 6
+INFO:Receiver:Received d
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Send d. Packet size 6
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Send d. Packet size 6
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Send d. Packet size 6
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Send d. Packet size 6
+INFO:Receiver:Received d
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Send d. Packet size 6
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Send d. Packet size 6
+INFO:Receiver:Received d
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Send d. Packet size 6
+INFO:Receiver:Received d
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Send d. Packet size 6
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Send d. Packet size 6
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Send d. Packet size 6
+INFO:Receiver:Received d
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Send d. Packet size 6
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Send d. Packet size 6
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x64']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Send d. Packet size 6
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x2
+INFO:Sender:Data: ['0x64', '0x31']
+INFO:Sender:Naive CRC: 0x6
+
+INFO:Sender:Send d1. Packet size 7
+INFO:Receiver:Received d1
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x32']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Send 2. Packet size 6
+INFO:Receiver:Received 2
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x33']
+INFO:Sender:Naive CRC: 0x4
+
+INFO:Sender:Send 3. Packet size 6
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x33']
+INFO:Sender:Naive CRC: 0x4
+
+INFO:Sender:Send 3. Packet size 6
+INFO:Receiver:Received 3
+INFO:Sender:
+======== PACKET STRUCTURE ========
+INFO:Sender:Beginning flag: 0x65
+INFO:Sender:Destination: 0xd
+INFO:Sender:Source flag: 0xc
+INFO:Sender:Data size: 0x1
+INFO:Sender:Data: ['0x34']
+INFO:Sender:Naive CRC: 0x3
+
+INFO:Sender:Send 4. Packet size 6
+INFO:Sender:Send srt. Packet size 8
+INFO:Receiver:Received srt
+INFO:Sender:Send t. Packet size 6
+INFO:Receiver:Received t
+INFO:Sender:Send t. Packet size 6
+INFO:Sender:Send t. Packet size 6
+INFO:Sender:Send t. Packet size 6
+INFO:Sender:Send t. Packet size 6
+INFO:Sender:Send t. Packet size 6
+INFO:Receiver:Received t
+INFO:Sender:Send t. Packet size 6
+INFO:Receiver:Received t
+INFO:Sender:Send t2. Packet size 7
+INFO:Receiver:Received t2
+INFO:Sender:Send 3. Packet size 6
+INFO:Sender:Send 4. Packet size 6
+INFO:Receiver:Received 4
+INFO:Sender:Send 5. Packet size 6
+INFO:Sender:Send 6. Packet size 6
+INFO:Sender:Send 7. Packet size 6
+INFO:Receiver:Received 7
+INFO:Sender:Send 8. Packet size 6
+INFO:Sender:Send 3. Packet size 6
+INFO:Receiver:Received 3
+INFO:Sender:Send 21. Packet size 7
+INFO:Sender:Send 34. Packet size 7
+INFO:Sender:Send 435. Packet size 8
+INFO:Sender:Send 345. Packet size 8
+INFO:Sender:Send 6. Packet size 6
+INFO:Sender:Send 34. Packet size 7
+INFO:Sender:Send 345. Packet size 8
+INFO:Sender:Send 345. Packet size 8
+INFO:Sender:Send 345. Packet size 8
+INFO:Sender:Send 34. Packet size 7
+INFO:Receiver:Received 34
+INFO:Sender:Send 534. Packet size 8
+INFO:Sender:Send 53. Packet size 7
+INFO:Receiver:Received 53
+INFO:Sender:Send 45. Packet size 7
+INFO:Receiver:Received 45
+INFO:Sender:Send 345. Packet size 8
+INFO:Sender:Send 34. Packet size 7
+INFO:Sender:Send 5. Packet size 6
+INFO:Sender:Send 34. Packet size 7
+INFO:Sender:Send 534. Packet size 8
+INFO:Receiver:Received 534
+INFO:Sender:Send 5. Packet size 6
+INFO:Sender:Send 34. Packet size 7
+INFO:Receiver:Received 34
+INFO:Sender:Send 53. Packet size 7
+INFO:Sender:Send 45. Packet size 7
+INFO:Sender:Send 34. Packet size 7
+INFO:Sender:Send 53. Packet size 7
+INFO:Receiver:Received 53
+INFO:Sender:Send 45. Packet size 7
+INFO:Sender:Send 34. Packet size 7
+INFO:Receiver:Received 34
+INFO:Sender:Send 5. Packet size 6
+INFO:Sender:Send 345. Packet size 8
+INFO:Receiver:Received 345
+INFO:Sender:Send 34. Packet size 7
+INFO:Receiver:Received 34
+INFO:Sender:Send 5. Packet size 6
+INFO:Receiver:Received 5
+INFO:Sender:Send 345. Packet size 8
+INFO:Sender:Send 34. Packet size 7
+INFO:Sender:Send 534. Packet size 8
+INFO:Sender:Send 5345. Packet size 9
+INFO:Sender:Send 345. Packet size 8
+INFO:Receiver:Received 345
+INFO:Sender:Send 345. Packet size 8
+INFO:Sender:Send 345. Packet size 8
+INFO:Sender:Send 345. Packet size 8
+INFO:Receiver:Received 345
+INFO:Sender:Send 345. Packet size 8
+INFO:Sender:Send 345. Packet size 8
+INFO:Receiver:Received 345
+INFO:Sender:Send 66. Packet size 7
+INFO:Sender:Send 6. Packet size 6
+INFO:Sender:Send st
+INFO:Sender:Send t
+INFO:Sender:Send d
+INFO:Sender:Send rds
+INFO:Receiver:Received rds
+INFO:Sender:Send st
+INFO:Sender:Send st
+INFO:Receiver:Received st
+INFO:Sender:Send st
+INFO:Sender:Send st
+INFO:Receiver:Received st
+INFO:Sender:Send st
+INFO:Sender:Send st
+INFO:Sender:Send st
+INFO:Receiver:Received st
+INFO:Sender:Send st
+INFO:Sender:Send st
+INFO:Sender:Send st
+INFO:Receiver:Received st
+INFO:Sender:Send st
+INFO:Sender:Send st
+INFO:Sender:Send st
+INFO:Receiver:Received st
+INFO:Sender:Send st
+INFO:Sender:Send ts
+INFO:Sender:Send st
+INFO:Receiver:Received st
+INFO:Sender:Send st
+INFO:Sender:Send st
+INFO:Sender:Send st
+INFO:Sender:Send st
+INFO:Sender:Send st
+INFO:Receiver:Received st
+INFO:Sender:Send st
+INFO:Receiver:Received st
+INFO:Sender:Send d
+INFO:Receiver:Received d
+INFO:Sender:Send d
+INFO:Receiver:Received d
+INFO:Sender:Send d
+INFO:Receiver:Received d
+INFO:Sender:Send d
+INFO:Receiver:Received d
+INFO:Sender:Send d
+INFO:Receiver:Received d
+INFO:Sender:Send dh
+INFO:Receiver:Received dh
+INFO:Sender:Send t
+INFO:Receiver:Received t
+INFO:Sender:Send d
+INFO:Receiver:Received d
+INFO:Sender:Send d
+INFO:Receiver:Received d
+INFO:Sender:Send h
+INFO:Receiver:Received h
+INFO:Sender:Send f
+INFO:Receiver:Received f
+INFO:Sender:Send w
+INFO:Receiver:Received w
+INFO:Sender:Send q
+INFO:Receiver:Received q
+INFO:Sender:Send w
+INFO:Receiver:Received w
+INFO:Sender:Send f
+INFO:Receiver:Received f
+INFO:Sender:Send p
+INFO:Receiver:Received p
+INFO:Sender:Send g
+INFO:Receiver:Received g
+INFO:Sender:Send j
+INFO:Receiver:Received j
+INFO:Sender:Send l
+INFO:Receiver:Received l
+INFO:Sender:Send vd
+INFO:Receiver:Received vd
+INFO:Sender:Send t
+INFO:Receiver:Received t
+INFO:Sender:Send s
+INFO:Receiver:Received s
+INFO:Sender:Send r
+INFO:Receiver:Received r
+INFO:Sender:Send a
+INFO:Receiver:Received a
+INFO:Sender:Send c
+INFO:Receiver:Received c
+INFO:Sender:Send v
+INFO:Receiver:Received v
+INFO:Sender:Send b
+INFO:Receiver:Received b
+INFO:Sender:Send k
+INFO:Receiver:Received k
+INFO:Sender:Send k
+INFO:Receiver:Received k
+INFO:Sender:Send h
+INFO:Receiver:Received h
+INFO:Sender:Send t
+INFO:Receiver:Received t
+INFO:Sender:Send s
+INFO:Receiver:Received s
+INFO:Sender:Send r
+INFO:Receiver:Received r
+INFO:Sender:Send r
+INFO:Receiver:Received r
+INFO:Sender:Send a
+INFO:Receiver:Received a
+INFO:Sender:Send q
+INFO:Receiver:Received q
+INFO:Sender:Send w
+INFO:Receiver:Received w
+INFO:Sender:Send p
+INFO:Receiver:Received p
+INFO:Sender:Send g
+INFO:Receiver:Received g
+INFO:Sender:Send n[A[B
+INFO:Receiver:Received n[A[B
+INFO:Sender:Send t
+INFO:Receiver:Received t
+INFO:Sender:Send sr
+INFO:Receiver:Received sr
+INFO:Sender:Send r
+INFO:Receiver:Received r
+INFO:Sender:Send d
+INFO:Receiver:Received d
+INFO:Sender:Send h
+INFO:Receiver:Received h
+INFO:Sender:Send f
+INFO:Receiver:Received f
+INFO:Sender:Send f
+INFO:Receiver:Received f
+INFO:Sender:Send p
+INFO:Receiver:Received p
+INFO:Sender:Send frt
+INFO:Receiver:Received frt
+INFO:Sender:Send rs
+INFO:Sender:Collision!
+INFO:Receiver:Received rs
+INFO:Sender:Send rst
+INFO:Receiver:Received rst
+INFO:Sender:Send rs
+INFO:Sender:Collision!
+INFO:Receiver:Received rs
+INFO:Sender:Collision!
+INFO:Sender:Send rs
+INFO:Receiver:Received rs
+INFO:Sender:Send t
+INFO:Receiver:Received t
+INFO:Sender:Send rst
+INFO:Receiver:Received rst
+INFO:Sender:Send t
+INFO:Receiver:Received t
+INFO:Sender:Send t
+INFO:Receiver:Received t
+INFO:Sender:Send d
+INFO:Receiver:Received d
+INFO:Sender:Send rs
+INFO:Receiver:Received rs
+INFO:Sender:Send tr
+INFO:Receiver:Received tr
+INFO:Sender:Send st
+INFO:Receiver:Received st
+INFO:Sender:Send rst
+INFO:Receiver:Received rst
+INFO:Sender:Send rst
+INFO:Sender:Collision!
+INFO:Sender:Collision!
+INFO:Sender:Send t
+INFO:Receiver:Received t
+INFO:Sender:Try to send 6
+INFO:Sender:Send rst
+INFO:Receiver:Received rst
+INFO:Sender:Try to send 6
+INFO:Sender:Send rs
+INFO:Receiver:Received rs
+INFO:Sender:Try to send 6
+INFO:Sender:Send rst
+INFO:Receiver:Received rst
+INFO:Sender:Try to send 6
+INFO:Sender:Send rst
+INFO:Receiver:Received rst
+INFO:Sender:Try to send 6
+INFO:Sender:Send d
+INFO:Sender:Collision!
+INFO:Receiver:Received d
+INFO:Sender:Try to send 6
+INFO:Sender:Send rs
+INFO:Receiver:Received rs
+INFO:Sender:Try to send 6
+INFO:Sender:Send tt
+INFO:Receiver:Received tt
+INFO:Sender:Try to send 6
+INFO:Sender:Send d
+INFO:Receiver:Received d
+INFO:Sender:Collision!
+INFO:Sender:Try to send 5
+INFO:Sender:Send d
+INFO:Receiver:Received d
+INFO:Sender:Try to send 5
+INFO:Sender:Send t
+INFO:Receiver:Received t
+INFO:Sender:Try to send 5
+INFO:Sender:Send t
+INFO:Receiver:Received t
+INFO:Sender:Try to send 5
+INFO:Sender:Send v
+INFO:Receiver:Received v
+INFO:Sender:Try to send 5
+INFO:Sender:Send d
+INFO:Receiver:Received d
+INFO:Sender:Try to send 5
+INFO:Sender:Send t
+INFO:Receiver:Received t
+INFO:Sender:Try to send 5
+INFO:Sender:Send d
+INFO:Receiver:Received d
+INFO:Sender:Try to send 5
+INFO:Sender:Send str
+INFO:Receiver:Received str
+INFO:Sender:Try to send 5
+INFO:Sender:Send tsr
+INFO:Sender:Try to send 5
+INFO:Sender:Send srt
+INFO:Receiver:Received srt
+INFO:Sender:Try to send 5
+INFO:Sender:Send rst
+INFO:Receiver:Received rst
+INFO:Sender:Try to send 5
+INFO:Sender:Send drs
+INFO:Receiver:Received drs
+INFO:Sender:Try to send 5
+INFO:Sender:Send rst
+INFO:Receiver:Received rst
+INFO:Sender:Try to send 5
+INFO:Sender:Send rst
+INFO:Sender:Collision!
+INFO:Sender:Collision!
+INFO:Sender:Collision!
+INFO:Sender:Collision!
+INFO:Sender:Send srt
+INFO:Receiver:Received srt
+INFO:Sender:Send d
+INFO:Receiver:Received d
+INFO:Sender:Send t
+INFO:Receiver:Received t
+INFO:Sender:Send rst
+INFO:Receiver:Received rst
+INFO:Sender:Send d
+INFO:Receiver:Received d
+INFO:Sender:Send rst
+INFO:Receiver:Received rst
+INFO:Sender:Send rs
+INFO:Receiver:Received rs
+INFO:Sender:Send rst
+INFO:Receiver:Received rst
+INFO:Sender:Send rds
+INFO:Receiver:Received rds
+INFO:Sender:Send rst
+INFO:Receiver:Received rst
+INFO:Sender:Send rs
+INFO:Receiver:Received rs
+INFO:Sender:Send trsd
+INFO:Receiver:Received trsd
+INFO:Sender:Send rst
+INFO:Receiver:Received rst
+INFO:Sender:Send rst
+INFO:Receiver:Received rst
+INFO:Sender:Send rs
+INFO:Sender:Collision!
+INFO:Sender:Collision!
+INFO:Sender:Send rst
+INFO:Receiver:Received rst
+INFO:Sender:Send rst
+INFO:Receiver:Received rst
+INFO:Sender:Send rsd
+INFO:Sender:Send srt
+INFO:Receiver:Received srt
+INFO:Sender:Send rst
+INFO:Receiver:Received rst
+INFO:Sender:Send rsd
+INFO:Receiver:Received rsd
+INFO:Sender:Send rst
+INFO:Receiver:Received rst
+INFO:Sender:Send rst
+INFO:Receiver:Received rst
+INFO:Sender:Send rst
+INFO:Sender:Collision!
+INFO:Sender:Collision!
+INFO:Sender:Collision!
+INFO:Sender:Send 5
+INFO:Sender:Collision!
+INFO:Sender:Collision!
+INFO:Receiver:Received rsd
+INFO:Sender:Send 5
+INFO:Receiver:Received rst
+INFO:Sender:Send pfjpjpfljpfgpfgp
+INFO:Receiver:Received pfjpjpfljpfgpfgp
+INFO:Sender:Send 
+INFO:Sender:Collision!
+INFO:Sender:Collision!
+INFO:Sender:Send 5
+INFO:Sender:Collision!
+INFO:Sender:Collision!
+INFO:Sender:Collision!
+INFO:Sender:Send 5
+INFO:Sender:Collision!
+INFO:Sender:Collision!
+INFO:Sender:Send 5
