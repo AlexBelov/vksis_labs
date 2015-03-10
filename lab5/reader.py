@@ -39,29 +39,55 @@ logger = logging.getLogger("Node " + node)
 
 messages = []
 num_messages = 0
+send_queue = []
 
 def processing(message):
+    global send_queue
     dst, priority, line = message.split(':')
     if dst == node:
         print line
     else:
-        open('pipefile_' + node + '_' + next_node, 'w').write(message)
-        logger.info("Redirected message: " + line + " to next node")
+        send_queue.append(message)
 
 def read_from_pipe():
     global messages
     global num_messages
+    global send_queue
     while 1:
         message = open('pipefile_' + previous_node + '_' + node, 'r').read().rstrip('\n')
         if message:
-            open('pipefile_' + previous_node + '_' + node, 'w').write('')
-            #print message
-            messages.insert(0,[str(message.split(':')[1]), str(num_messages), message])
-            logger.info("Received message: " + str(message.split(':')[-1]))
-            messages.sort()
-            messages.reverse()
-            num_messages += 1
-            #print messages
+            if message == 'marker':
+                time.sleep(3)
+                open('pipefile_' + previous_node + '_' + node, 'w').write('')
+                if send_queue:
+                    send_queue.sort()
+                    send_queue.reverse()
+                    msg = send_queue.pop()
+                    open('pipefile_' + node + '_' + next_node, 'w').write(msg)
+                    logger.info("Redirected message: " + msg + " to next node")
+                else:
+                    open('pipefile_' + node + '_' + next_node, 'w').write('marker')
+                    logger.info("Send marker to next node")
+            else:
+                open('pipefile_' + previous_node + '_' + node, 'w').write('')
+                #print message
+                messages.insert(0,[str(message.split(':')[1]), str(num_messages), message])
+                logger.info("Received message: " + str(message.split(':')[-1]))
+                messages.sort()
+                messages.reverse()
+                num_messages += 1
+                processing(message)
+
+                if send_queue:
+                    send_queue.sort()
+                    send_queue.reverse()
+                    msg = send_queue.pop()
+                    open('pipefile_' + node + '_' + next_node, 'w').write(msg)
+                    logger.info("Redirected message: " + msg + " to next node")
+                else:
+                    open('pipefile_' + node + '_' + next_node, 'w').write('marker')
+                    logger.info("Send marker to next node")
+                #print messages
 
 def messages_processing():
     global messages
@@ -70,10 +96,10 @@ def messages_processing():
             message = messages.pop()
             #print message[-1]
             processing(str(message[-1]))
-        time.sleep(10)
+        #time.sleep(3)
 
 thread.start_new_thread( read_from_pipe, () )
-thread.start_new_thread( messages_processing, () )
+#thread.start_new_thread( messages_processing, () )
 
 while 1:
    pass

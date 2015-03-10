@@ -6,6 +6,8 @@ import time
 import thread
 import re
 
+line = ''
+
 node, next_node, previous_node = '', '', ''
 default_priority = '255'
 
@@ -44,5 +46,12 @@ while 1:
       break
     if re.match('\d+:\d+:\w+', line) is None:
         line = next_node + ':' + default_priority + ':' + line
-    open('pipefile_' + node + '_' + next_node, 'w').write(line)
+
+    while 1:
+        message = open('pipefile_' + previous_node + '_' + node, 'r').read().rstrip('\n')
+        if message == 'marker':
+            open('pipefile_' + previous_node + '_' + node, 'w').write('')
+            open('pipefile_' + node + '_' + next_node, 'w').write(line)
+            break
+
     logger.info("Sended message: " + line)
